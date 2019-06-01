@@ -1,2 +1,8 @@
 # bestrepoever
-hello
+<<<<<<< HEAD
+
+Hello, I made changes!
+
+=======
+
+>>>>>>> master
